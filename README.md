@@ -1,5 +1,11 @@
 # My Portfolio
 
+<style>
+body {
+  background-color: #F5DEB3;
+}
+</style>
+
 ## Labs
 - [Lab 1](https://rbhullor.github.io/cit281-lab1/)
 - [Lab 2](https://rbhullor.github.io/cit281-lab2/)
