@@ -3,6 +3,13 @@
 <head>
     <title>My Portfolio</title>
     <style>
+        body {
+            background-color: #F5DEB3;
+            font-family: "Times New Roman", Times, serif;
+            margin: 0;
+            padding: 20px;
+        }
+
         .container {
             display: flex;
             justify-content: space-between;
@@ -10,6 +17,9 @@
 
         .column {
             width: 45%;
+            background-color: #F5DEB3;
+            padding: 20px;
+            margin: 10px;
         }
     </style>
 </head>
