@@ -1,33 +1,34 @@
 # Cit portfolio
-
-```html
 <!DOCTYPE html>
 <html>
 <head>
-    <title>CIT Portfolio</title>
+    <title>My Portfolio</title>
     <style>
         body {
             background-color: #DEB887;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
             margin: 0;
-            padding: 20px;
             font-family: "Times New Roman", Times, serif;
         }
 
         .container {
             display: flex;
             justify-content: space-between;
-        }
-
-        .column {
-            width: 45%;
+            width: 80%;
             background-color: #F5DEB3;
             padding: 20px;
             margin: 10px;
         }
+
+        .column {
+            width: 45%;
+        }
     </style>
 </head>
 <body>
-    <h1>CIT Portfolio</h1>
     <div class="container">
         <div class="column">
             <h2>Labs</h2>
