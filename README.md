@@ -1,5 +1,6 @@
 # rbhullor.github.io
 Lab 1 (https://github.com/rbhullor/cit281-lab1.git)
+
 Overview
 Lab goals and outcomes:
 
@@ -10,6 +11,7 @@ Part 4: Practice keyboard shortcuts
 Part 5: Create your first Node.js server-side JavaScript file
 
 Lab 2 (https://github.com/rbhullor/cit281-lab2.git)
+
 Overview
 Lab goals and outcomes:
 
@@ -27,6 +29,7 @@ Part 8: Branch
 Part 9: Repo files
 
 Project 1 (https://github.com/rbhullor/cit281-project1.git)
+
 Learning Objectives
 
 After completing this project, you will:
@@ -45,6 +48,7 @@ Use the ping command, and practice using the break keyboard sequence
 Create and execute a JavaScript files using Node.js and Visual Studio Code (VSCode) terminal and Run and Debug
 
 Lab 3 (https://github.com/rbhullor/cit281-lab3.git)
+
 Overview
 Lab goals and outcomes:
 
@@ -58,6 +62,7 @@ Practice importing a Node.js compatible code module using require
 Examine code using the spread operator
 
 Project 2 (https://github.com/rbhullor/cit281-project2.git)
+
 Learning Objectives
 
 After completing this project, you will:
@@ -76,6 +81,7 @@ Create and use a .gitignore file
 Diff split screen
 
 Lab 4n (https://github.com/rbhullor/cit281-lab4.git)
+
 Overview
 Lab goals and outcomes:
 
@@ -87,6 +93,7 @@ Part 5: Fix MIME error, test, and commit
 Part 6: Add a second route with query parameters, test, and commit
 
 Lab 5 (https://github.com/rbhullor/ctit281-lab5.git)
+
 Overview
 Lab goals and outcomes:
 
@@ -99,6 +106,7 @@ Part 6: Add POST handling to server application and respond with JSON
 Part 7: Use Postman and POST request
 
 Project 3 (https://github.com/rbhullor/cit281-project3.git)
+
 Learning Objectives:
 Gain experience interpreting functional descriptions and specifications to complete an assignment
 Gain experience breaking a project into manageable components
@@ -113,6 +121,7 @@ Overview:
 You will be creating a "coinage" code module that is capable of calculating the total value of coin objects. After completing the "coinage" code module functionality, you will then update the "server" code file as a true Node.js web server using the Fastify package. The updated "server" file will display an initial web page with web links to to test the "coinage" code. The initial web page will be loaded from a file.
 
 Lab 6 (https://github.com/rbhullor/cit281-lab6.git)
+
 Overview
 Lab goals and outcomes:
 
@@ -125,6 +134,7 @@ Part 6: Add at least two more books to the library
 Part 7: Add ISBN and a delete book method
 
 Project 4 (https://github.com/rbhullor/cit281-project4.git)
+
 Learning Objectives
 After completing this project, you will:
 
@@ -145,6 +155,7 @@ Overview
 You will be creating a REST API that works with a "data" source of questions and answers. You will create all of the code to work with the data source using a code module, and test the code module code using provided testing code. You will also create a Node.js REST API to handle the GET verb. 
 
 Lab 7 (https://github.com/rbhullor/cit281-lab7.git)
+
 Overview
 Lab goals and outcomes:
 
@@ -156,6 +167,7 @@ Part 5: Update and commit lab JavaScript file to practice with error handling
 Part 6: Push your changes to GitHub
 
 Project 5 (https://github.com/rbhullor/cit281-project5.git)
+
 Learning Objectives
 After completing this project, you will:
 
@@ -172,6 +184,7 @@ Overview
 For this project, you will create a Monster Game program using classes. The game will create monsters with initial life values, and minimum life values for the monster to be alive. Once the game is running, each monster's life will be drained by a random amount, and the game will continue until all of the monsters have died. The game will include a delay before each life drain.
 
 Lab 8 (https://github.com/rbhullor/cit281-lab8.git)
+
 Overview
 Lab goals and outcomes:
 
@@ -182,6 +195,7 @@ Part 4: Add fastify and node-fetch require statements
 Part 5: Fetch JSONPlaceholder data
 
 Project 6 (https://github.com/rbhullor/cit281-project6.git)
+
 Learning Objectives
 After completing this project, you will:
 
@@ -200,6 +214,7 @@ You will be creating three classes. The first class is the Shape class that will
 The base Shape class will provide the common functionality of a method that returns the perimeter value. Each of the other two classes will provide their own versions of a method that returns the area value. 
 
 Lab 9 (https://github.com/rbhullor/cit281-lab9.git)
+
 Lab goals and outcomes:
 
 Part 1: Create Learning Lab course/repo within your GitHub account
